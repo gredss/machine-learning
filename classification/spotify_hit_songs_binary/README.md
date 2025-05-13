@@ -153,6 +153,6 @@ hit_distribution = data['hit'].value_counts(normalize=True)
 
 ## 📜 License
 
-Please refer to the [Kaggle dataset license](https://www.kaggle.com/datasets) for usage permissions.
+Please refer to the [Kaggle dataset license](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) for usage permissions.
 
 
