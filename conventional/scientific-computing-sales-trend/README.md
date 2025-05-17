@@ -14,7 +14,7 @@ Through experimentation with polynomial degrees ranging from 1 to 6, we identifi
 
 - Fitted polynomial regression models of order 1 through 6.
 - Visualized the results to analyze how each polynomial captured the underlying pattern.
-  ![Polynomial Fit Order 1–6](conventional/scientific-computing-sales-trend/imagespolynomial_orders.png)
+  ![Polynomial Fit Order 1–6](conventional/scientific-computing-sales-trend/images/polynomial_orders.png)
 - Found that a third-order polynomial best reflects the accelerating sales trend, especially over the latter periods of the dataset.
   ![Best Fit: Third-Order Polynomial](conventional/scientific-computing-sales-trend/images/third_order_best_fit.png)
 - Higher-degree models showed minimal improvements and increased the risk of overfitting.
