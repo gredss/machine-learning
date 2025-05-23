@@ -3,7 +3,7 @@
 This repository contains an exploratory and predictive analysis on a dataset of Spotify tracks sourced from Kaggle. The project focuses on exploring audio features and building a classification target based on track popularity.
 
 ---
-
+['poster'](classification/spotify_hit_songs_binary/poster.png)
 ## 📂 Dataset Overview
 
 **Source:** Spotify API and other curated datasets
