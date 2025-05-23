@@ -21,3 +21,10 @@
    Suggests restaurants based on location and user preferences.  
    _Keywords_: recommendation system, location-based filtering, user profiling  
    🔗 [View Details](recommender-system/restaurants_in_india)
+
+## Conventional
+1. **Bag Sales Trend**  
+   Forecasting sales trend.
+   _Keywords_: polynomial  
+   🔗 [View Details](conventional/scientific-computing-sales-trend)
+
