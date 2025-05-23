@@ -25,7 +25,6 @@
 ## Conventional
 1. **Bag Sales Trend**  
    Forecasting sales trend.
-
     _Keywords_: polynomial  
    🔗 [View Details](conventional/scientific-computing-sales-trend)
 
